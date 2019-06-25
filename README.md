@@ -1,5 +1,5 @@
 # Student Database Application
-A basic Java project focused on applying object-oriented design in real world applications.
+A basic Java project focused on applying object-oriented design in a real world application.
 
 ### Project Aim
 You are a Database Administrator for a university and need to create an application to manage student enrollments and their balances.
